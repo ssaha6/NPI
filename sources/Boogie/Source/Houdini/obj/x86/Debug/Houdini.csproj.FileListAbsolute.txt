@@ -1,0 +1,5 @@
+C:\Users\neider\Desktop\Boogie\Binaries\Houdini.dll
+C:\Users\neider\Desktop\Boogie\Binaries\Houdini.pdb
+C:\Users\neider\Desktop\Boogie\Source\Houdini\obj\x86\Debug\Houdini.csprojResolveAssemblyReference.cache
+C:\Users\neider\Desktop\Boogie\Source\Houdini\obj\x86\Debug\Houdini.dll
+C:\Users\neider\Desktop\Boogie\Source\Houdini\obj\x86\Debug\Houdini.pdb

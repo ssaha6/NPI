@@ -1,0 +1,7 @@
+C:\Users\neider\Desktop\Boogie\Source\Basetypes\bin\Debug\Basetypes.dll
+C:\Users\neider\Desktop\Boogie\Source\Basetypes\bin\Debug\Basetypes.pdb
+C:\Users\neider\Desktop\Boogie\Source\Basetypes\bin\Debug\CodeContractsExtender.dll
+C:\Users\neider\Desktop\Boogie\Source\Basetypes\bin\Debug\CodeContractsExtender.pdb
+C:\Users\neider\Desktop\Boogie\Source\Basetypes\obj\Debug\Basetypes.csprojResolveAssemblyReference.cache
+C:\Users\neider\Desktop\Boogie\Source\Basetypes\obj\Debug\Basetypes.dll
+C:\Users\neider\Desktop\Boogie\Source\Basetypes\obj\Debug\Basetypes.pdb

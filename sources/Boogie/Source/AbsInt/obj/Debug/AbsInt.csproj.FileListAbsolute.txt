@@ -1,0 +1,15 @@
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\AbsInt.dll
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\AbsInt.pdb
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\Basetypes.dll
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\CodeContractsExtender.dll
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\Core.dll
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\ParserHelper.dll
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\Graph.dll
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\Basetypes.pdb
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\CodeContractsExtender.pdb
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\Core.pdb
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\ParserHelper.pdb
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\bin\Debug\Graph.pdb
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\obj\Debug\AbsInt.csprojResolveAssemblyReference.cache
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\obj\Debug\AbsInt.dll
+C:\Users\neider\Desktop\Boogie\Source\AbsInt\obj\Debug\AbsInt.pdb

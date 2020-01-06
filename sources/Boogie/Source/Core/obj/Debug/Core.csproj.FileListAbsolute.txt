@@ -1,0 +1,13 @@
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\Core.dll
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\Core.pdb
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\Basetypes.dll
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\CodeContractsExtender.dll
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\Graph.dll
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\ParserHelper.dll
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\Basetypes.pdb
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\CodeContractsExtender.pdb
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\Graph.pdb
+C:\Users\neider\Desktop\Boogie\Source\Core\bin\Debug\ParserHelper.pdb
+C:\Users\neider\Desktop\Boogie\Source\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\neider\Desktop\Boogie\Source\Core\obj\Debug\Core.dll
+C:\Users\neider\Desktop\Boogie\Source\Core\obj\Debug\Core.pdb

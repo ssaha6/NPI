@@ -1,0 +1,4 @@
+C:\Users\neider\Desktop\Boogie\Source\CodeContractsExtender\bin\Debug\CodeContractsExtender.dll
+C:\Users\neider\Desktop\Boogie\Source\CodeContractsExtender\bin\Debug\CodeContractsExtender.pdb
+C:\Users\neider\Desktop\Boogie\Source\CodeContractsExtender\obj\Debug\CodeContractsExtender.dll
+C:\Users\neider\Desktop\Boogie\Source\CodeContractsExtender\obj\Debug\CodeContractsExtender.pdb

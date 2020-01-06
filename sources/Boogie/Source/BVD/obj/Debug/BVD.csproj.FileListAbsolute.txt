@@ -1,0 +1,6 @@
+C:\Users\neider\Desktop\Boogie\Binaries\BVD.exe.config
+C:\Users\neider\Desktop\Boogie\Binaries\BVD.exe
+C:\Users\neider\Desktop\Boogie\Binaries\BVD.pdb
+C:\Users\neider\Desktop\Boogie\Source\BVD\obj\Debug\BVD.csprojResolveAssemblyReference.cache
+C:\Users\neider\Desktop\Boogie\Source\BVD\obj\Debug\BVD.exe
+C:\Users\neider\Desktop\Boogie\Source\BVD\obj\Debug\BVD.pdb

@@ -1,0 +1,5 @@
+C:\Users\neider\Desktop\Boogie\Binaries\ParserHelper.dll
+C:\Users\neider\Desktop\Boogie\Binaries\ParserHelper.pdb
+C:\Users\neider\Desktop\Boogie\Source\ParserHelper\obj\Debug\ParserHelper.csprojResolveAssemblyReference.cache
+C:\Users\neider\Desktop\Boogie\Source\ParserHelper\obj\Debug\ParserHelper.dll
+C:\Users\neider\Desktop\Boogie\Source\ParserHelper\obj\Debug\ParserHelper.pdb

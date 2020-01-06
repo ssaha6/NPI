@@ -1,0 +1,9 @@
+C:\Users\neider\Desktop\Boogie\Binaries\ModelViewer.dll
+C:\Users\neider\Desktop\Boogie\Binaries\ModelViewer.pdb
+C:\Users\neider\Desktop\Boogie\Source\ModelViewer\obj\x86\Debug\ModelViewer.csprojResolveAssemblyReference.cache
+C:\Users\neider\Desktop\Boogie\Source\ModelViewer\obj\x86\Debug\Microsoft.Boogie.ModelViewer.Main.resources
+C:\Users\neider\Desktop\Boogie\Source\ModelViewer\obj\x86\Debug\Microsoft.Boogie.ModelViewer.Properties.Resources.resources
+C:\Users\neider\Desktop\Boogie\Source\ModelViewer\obj\x86\Debug\Microsoft.Boogie.ModelViewer.SourceView.resources
+C:\Users\neider\Desktop\Boogie\Source\ModelViewer\obj\x86\Debug\ModelViewer.csproj.GenerateResource.Cache
+C:\Users\neider\Desktop\Boogie\Source\ModelViewer\obj\x86\Debug\ModelViewer.dll
+C:\Users\neider\Desktop\Boogie\Source\ModelViewer\obj\x86\Debug\ModelViewer.pdb

@@ -1,0 +1,5 @@
+C:\Users\neider\Desktop\Boogie\Binaries\Boogie.exe
+C:\Users\neider\Desktop\Boogie\Binaries\Boogie.pdb
+C:\Users\neider\Desktop\Boogie\Source\BoogieDriver\obj\x86\Debug\BoogieDriver.csprojResolveAssemblyReference.cache
+C:\Users\neider\Desktop\Boogie\Source\BoogieDriver\obj\x86\Debug\Boogie.exe
+C:\Users\neider\Desktop\Boogie\Source\BoogieDriver\obj\x86\Debug\Boogie.pdb
